@@ -6,6 +6,8 @@ Nama : Desvi Ramadhani Syafitri
 NIM : 312110082
 Kelas : TI.21.B.1
 Disini Saya membuat website sederhana tentang kebersihan toilet menggunakan php, hal pertama yang dilakukan adalah membuat database dan jangan lupa menghidupkan xampp
+LINK YOUTUBE : https://www.youtube.com/watch?v=JKc4qhlvG4I
+
 
 ### Membuat Koneksi
 membuat koneksi dengan database yang ada di phpmyadmin sebagai berikut:
@@ -45,7 +47,6 @@ ini adalah kode untuk menghapus data yang sudah kita input:
 ![gambar14](screenshot/ss14.png)
 ![gambar15](screenshot/ss15.png)
 
-LINK YOUTUBE : https://www.youtube.com/watch?v=JKc4qhlvG4I
 
 
 
