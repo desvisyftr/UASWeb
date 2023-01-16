@@ -45,5 +45,7 @@ ini adalah kode untuk menghapus data yang sudah kita input:
 ![gambar14](screenshot/ss14.png)
 ![gambar15](screenshot/ss15.png)
 
+LINK YOUTUBE : https://www.youtube.com/watch?v=JKc4qhlvG4I
+
 
 
